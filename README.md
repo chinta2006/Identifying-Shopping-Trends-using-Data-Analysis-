@@ -78,6 +78,6 @@ This project is licensed under the MIT License.
 Contact
 For any queries or feedback, please contact:
 
-Author: Sujal Sandeep Rajapure
-Email: sujalrajapure@example.com
+Author: chinta jayanth sai
+Email: jayanthsaichinta@gmail.com
 GitHub: username
